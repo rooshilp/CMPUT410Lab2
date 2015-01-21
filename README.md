@@ -9,6 +9,6 @@ Dr. Abram Hindle
 Lab H02
 Ali Sajedi Badashian
 
-Lab 1
+Lab 2
 
 Rooshil Patel
